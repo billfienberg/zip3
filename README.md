@@ -6,6 +6,8 @@ Using the first three digits of a US zip code, you can roughly approximate which
 
 ## Demo
 
+![zip3 gif](./zip3-demo.gif)
+
 Code Sandbox: https://codesandbox.io/s/zip3-demo-rj8oc
 
 ## Data
