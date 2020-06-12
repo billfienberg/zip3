@@ -1,7 +1,7 @@
 {
   "name": "zip3",
-  "version": "1.0.2",
-  "description": "A dictionary of 3-digit zip codes mapped to their corresponding metro area",
+  "version": "1.0.3",
+  "description": "A dictionary of 3-digit zip code prefixes mapped to their corresponding metro area",
   "main": "index.js",
   "scripts": {},
   "author": "Bill Fienberg",

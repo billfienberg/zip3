@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/List_of_ZIP_Code_prefixes
 
 ## High Level Design
 
-This package exports a dictionary where the keys are the three-digit zip codes, and the values are objects containing `id` (the three-digit zip), `city`, and `state` (if available).
+This package exports a dictionary where the keys are the three-digit zip code prefixes, and the values are objects containing `id` (the three-digit zip), `city`, and `state` (if available).
 
 For example:
 
