@@ -1,6 +1,6 @@
 {
   "name": "zip3",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A dictionary of 3-digit zip codes mapped to their corresponding metro area",
   "main": "index.js",
   "scripts": {},
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/billfienberg/zip3"
   },
-  "homepage": "https://github.com/owner/project#readme",
+  "homepage": "https://github.com/billfienberg/zip3",
   "keywords": [
     "zip code",
     "metro area",
