@@ -4,6 +4,10 @@
 
 Using the first three digits of a US zip code, you can roughly approximate which metropolitan area that zip code is associated with.
 
+## Demo
+
+Code Sandbox: https://codesandbox.io/s/zip3-demo-rj8oc
+
 ## Data
 
 https://en.wikipedia.org/wiki/List_of_ZIP_Code_prefixes
