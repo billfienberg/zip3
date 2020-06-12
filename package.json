@@ -1,9 +1,19 @@
 {
   "name": "zip3",
-  "version": "1.0.0",
-  "description": "A dictionary of 3-digit zip codes mapped to their corresponding metro area\"",
+  "version": "1.0.1",
+  "description": "A dictionary of 3-digit zip codes mapped to their corresponding metro area",
   "main": "index.js",
   "scripts": {},
   "author": "Bill Fienberg",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/billfienberg/zip3"
+  },
+  "homepage": "https://github.com/owner/project#readme",
+  "keywords": [
+    "zip code",
+    "metro area",
+    "metropolitan statistical area"
+  ]
 }
